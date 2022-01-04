@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Eczane</string>
+    <string name="enter_input">Eczane Adı Girin</string>
+    <string name="save_text">Kaydet</string>
+    <string name="login_text">Giriş</string>
+    <string name="change_name">Değiştirilecek Eczane İsmini Girin</string>
+    <string name="order_prompt">Bir sıralama ölçütü seçin.</string>
+    <string-array name="order">
+        <item>İlaç Adı</item>
+        <item>İlaç Türü</item>
+        <item>Firma</item>
+    </string-array>
+    <string name="infoMedName">İlaç Adı</string>
+    <string name="infoMedCompany">Firma Adı</string>
+    <string name="infoMedType">İlaç Türü</string>
+    <string name="next_page">Sonraki Ekran</string>
+    <string name="enter_medicine_name_hint">İlaç adı giriniz</string>
+    <string name="enter_medicine_type_hint">İlaç kategorisini seçiniz</string>
+    <string name="enter_company_name_hint">Firma adı seçiniz.</string>
+    <string name="enter_medicine_location_hint">İlaç konumunu giriniz</string>
+    <string name="enter_stock_hint">Stok adedi giriniz.</string>
+    <string name="add_medicine_button_text">Listele</string>
+
+    <string name="new_item_options_add_category">Kategori Ekle</string>
+    <string name="new_item_options_add_company">Firma Ekle</string>
+    <string name="login_options_change_name">İsmi Düzenle</string>
+    <string name="login_options_change_avatar">Resmi Değiştir</string>
+    <string name="employee_options_add">Personel Ekle</string>
+    <string name="employee_options_remove">Personel Sil</string>
+
+    <string name="nav_menu_medicine_list">İlaç Listesi</string>
+    <string name="nav_menu_add_medicine">Yeni İlaç Ekle</string>
+    <string name="nav_menu_low_on_stock">Stoğu Azalan İlaçlar</string>
+    <string name="nav_menu_search_medicine">İlaç Ara</string>
+    <string name="nav_menu_employee_list">Personel Listesi</string>
+
+    <string name="add_medicine_options_ok">Ekle</string>
+    <string name="add_medicine_options_cancel">İptal</string>
+
+    <string name="items_low_on_stock">Stoğu Azalan Ürünler</string>
+
+    <string name="search_medicine_hint">İlaç adı</string>
+    <string name="search_button_hint">search button</string>
+
+    <string name="employee_list">Personel Listesi</string>
+    <string name="employee_first_name_hint">Personel Adı</string>
+    <string name="employee_last_name_hint">Personel Soyadı</string>
+    <string name="employee_add_button">Kaydet</string>
+    <string name="employee_remove_button">Sil</string>
+</resources>
